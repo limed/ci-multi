@@ -1,3 +1,6 @@
 ---
 limed-haul:
   repo: https://github.com/limed/limed-haul
+
+limed-dpaste:
+  repo: https://github.com/limed/limed-dpaste
